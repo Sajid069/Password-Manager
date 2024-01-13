@@ -1,5 +1,5 @@
 {
     "[python]": {
-        "editor.defaultFormatter": null
+        "editor.defaultFormatter": "mikoz.autoflake-extension"
     }
 }
